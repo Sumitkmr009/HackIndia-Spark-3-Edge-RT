@@ -5,5 +5,3 @@
    `python peer.py`
 3. Open another terminal and start a client:
    `python run_app.py`
-4. Copy the link from the client terminal and paste it in any browser.
-5. To run our experiment of different Proof of Work concepts:
